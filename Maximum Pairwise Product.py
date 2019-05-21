@@ -1,4 +1,6 @@
 # Uses python3
+## copy from https://www.jianshu.com/p/5c41fce5512e 
+
 len1 = input()
 n = input()
 a = [int(x) for x in n.strip().split()]
